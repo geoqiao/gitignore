@@ -1,3 +1,6 @@
+> [!NOTE]
+> This personal template experiment is archived and retained for reference, including the custom `addpyprojecttoml` branch. No further maintenance is planned in this fork.
+
 <p align="center">
     <a href="https://www.gitignore.io">
         <img src="https://raw.githubusercontent.com/toptal/gitignore/master/.github/gitignore-templates.svg" />
